@@ -491,23 +491,23 @@ screen0_output_mode      = 4
 screen1_output_type      = 2
 screen1_output_mode      = 11
 
-dev0_output_type = 4
-dev0_output_mode = 4
-dev0_screen_id = 0
-dev0_do_hpd = 1
+dev0_output_type = 0
+;dev0_output_mode = 4
+;dev0_screen_id = 0
+;dev0_do_hpd = 1
 
-dev1_output_type = 2
-dev1_output_mode = 11
-dev1_screen_id = 1
-dev1_do_hpd = 1
+dev1_output_type = 0
+;dev1_output_mode = 11
+;dev1_screen_id = 1
+;dev1_do_hpd = 1
 
 dev2_output_type = 0
 def_output_dev = 0
 hdmi_mode_check = 1
 
 fb0_format               = 0
-fb0_width                = 1280
-fb0_height               = 720
+fb0_width                = 0
+fb0_height               = 0
 
 fb1_format               = 0
 fb1_width                = 0
